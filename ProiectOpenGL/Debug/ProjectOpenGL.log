@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\Desktop\Proiect\ProjectOpenGL\ProjectOpenGL\main.cpp(272,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Desktop\Proiect\ProjectOpenGL\ProjectOpenGL\main.cpp(273,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Desktop\Proiect\ProjectOpenGL\ProjectOpenGL\main.cpp(277,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Desktop\Proiect\ProjectOpenGL\ProjectOpenGL\main.cpp(278,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Desktop\Proiect\ProjectOpenGL\ProjectOpenGL\main.cpp(279,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Desktop\Proiect\ProjectOpenGL\ProjectOpenGL\main.cpp(280,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Desktop\Proiect\ProjectOpenGL\ProjectOpenGL\main.cpp(448,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  ProjectOpenGL.vcxproj -> D:\Desktop\Proiect\ProjectOpenGL\Debug\ProjectOpenGL.exe
